@@ -1,0 +1,408 @@
+.home-page{
+    background-image: url(images/ales-krivec-QnNqGoCnBg0-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 70px;
+}
+
+.return-to-home button {
+    background-color: black;
+    border: 1px solid white;
+    padding: 15px;
+}
+
+.return-to-home a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+}
+
+.intro-part02 p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 150px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 275px;
+    font-weight: bold;
+}
+
+.home-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-button a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+
+.home-button button {
+    background-color: white;
+    border: solid white;
+    padding: 25px;
+    box-shadow: 5px 5px;
+}
+
+.dine-with-us{
+    background-color: #f5f5ef;
+}
+
+.see-flavors {
+    background-color: #f5f5ef;
+}
+
+.container-2nd-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+
+.bread-info-01 img {
+    width: 300px;
+    height: 500px;
+    position: relative;
+    top: 100px;
+
+}
+
+.bread-info-02 img {
+    width: 300px;
+    height: 500px;
+    position: relative;
+    top: 385px;
+}
+
+.main-info-2nd-page {
+    position: relative;
+    display: inline-block;
+    width: 450px;
+    height: 450px;
+    font-size: 30px;
+}
+
+#info-01 {
+    position: relative;
+    top: 150px;
+    left: 35px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#info-02 {
+    position: relative;
+    top: 125px;
+    left: 35px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.book-now {
+    position: relative;
+    top: 155px;
+    left: 35px;
+}
+
+.book-now button {
+    padding: 30px;
+    background-color: black;
+    height: 100px;
+    width: 175px;
+}
+
+.book-now a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.about {
+    position: relative;
+    top: 55px;
+    left: 250px;
+}
+
+.about button {
+    padding: 30px;
+    background-color: black;
+    height: 100px;
+    width: 175px;
+}
+
+.about a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.contacts {
+    position: relative;
+    left: 460px;
+    bottom: 45px;
+}
+
+.contacts button {
+    padding: 30px;
+    background-color: black;
+    height: 100px;
+    width: 175px;
+}
+
+.contacts a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.third-page-box-2 img {
+    height: 500px;
+    width: 500px
+}
+
+.container-3rd-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+
+.third-page-box-1 {
+    position: relative;
+    height: 350px;
+    width: 350px;
+    top: 185px;
+}
+
+#title-page03 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#desc-page03 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    bottom: 40px;
+}
+
+.third-page-box-2 img {
+    height: 350px;
+    width: 250px;
+}
+
+.third-page-box-3 img {
+    height: 350px;
+    width: 250px;
+}
+
+.third-page-box-4 img {
+    height: 350px;
+    width: 250px;
+}
+
+.third-page-box-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 17px;
+    position: relative;
+    top: 275px;
+    left: 10px;
+}
+
+.third-page-box-3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 17px;
+    position: relative;
+    top: 275px;
+    left: 10px;
+}
+
+.third-page-box-4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 17px;
+    position: relative;
+    top: 275px;
+    left: 10px;
+}
+
+.about-page {
+    background-image: url(images/pexels-viktoria-alipatova-2074130.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about-page-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 3px 2px black;
+    font-size: 30px;
+}
+
+.about-one {
+    position: relative;
+    height: 200px;
+    width: 650px;
+    top: 300px;
+    right: 700px;
+}
+
+.about-two {
+    position: relative;
+    height: 200px;
+    width: 650px;
+    top: 300px;
+    right: 485px;
+}
+
+.about-three {
+    position: relative;
+    height: 200px;
+    width: 650px;
+    top: 300px;
+    right: 300px;
+}
+
+.top-title p {
+    position: relative;
+    font-size: 75px;
+    font-weight: bold;
+    width: 1000px;
+    left: 575px;
+}
+
+.page05-first {
+    position: relative;
+}
+
+.background-page05 {
+    background-color: #f5f5ef;
+}
+
+.container-page05 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page05-first {
+    background-image: url(images/Screenshot\ 2023-06-30\ 222537.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    right: 275px;
+    top: 15px;
+    bottom: 15px;
+    height: 95vh;
+    width: 100vh;
+}
+
+.page05-second {
+    position: relative;
+    right: 150px;
+}
+
+.see-u-soon {
+    position: relative;
+    font-weight: bold;
+    font-size: 55px;
+    bottom: 150px;
+}
+
+.phone-num p:nth-child(1) {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.phone-num p:nth-child(2) {
+    font-size: 25px;
+}
+
+.email-add {
+    position: relative;
+    top: 50px;
+}
+
+.email-add p:nth-child(1){
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.email-add p:nth-child(2){
+    font-size: 25px;
+}
+
+.restaurant {
+    position: relative;
+    top: 100px;
+}
+
+.restaurant p:nth-child(1) {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.restaurant p:nth-child(2) {
+    font-size: 25px;
+}
+
+.page05-first p:nth-child(1) {
+    position: relative;
+    left: 15px;
+    top: 415px;
+    font-weight: bold;
+    color: white;
+    font-size: 35px;
+    text-shadow: 3px 2px black;
+}
+
+.return-to-home-02 {
+    position: relative;
+    top: 150px;
+}
+
+.return-to-home-02 button {
+    background-color: black;
+    border: 1px solid white;
+    padding: 15px;
+}
+
+.return-to-home-02 a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+}
