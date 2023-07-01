@@ -1,0 +1,1 @@
+This is a multiple-page website I created using only HTML and CSS. It serves as a practice project for me to learn the basics of HTML and CSS.
